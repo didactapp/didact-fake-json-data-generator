@@ -1,0 +1,3502 @@
+[
+  {
+    "chapterId": 9,
+    "bookId": 9,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8,
+    "bookId": 8,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3,
+    "bookId": 3,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1,
+    "bookId": 1,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2,
+    "bookId": 2,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4,
+    "bookId": 4,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7,
+    "bookId": 7,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5,
+    "bookId": 5,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8053,
+    "bookId": 8053,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6,
+    "bookId": 6,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9643,
+    "bookId": 9643,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9644,
+    "bookId": 9644,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7209,
+    "bookId": 7209,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3732,
+    "bookId": 3732,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3404,
+    "bookId": 3404,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3731,
+    "bookId": 3731,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3729,
+    "bookId": 3729,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7214,
+    "bookId": 7214,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3733,
+    "bookId": 3733,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3730,
+    "bookId": 3730,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7063,
+    "bookId": 7063,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7056,
+    "bookId": 7056,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7059,
+    "bookId": 7059,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5669,
+    "bookId": 5669,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7061,
+    "bookId": 7061,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7058,
+    "bookId": 7058,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7062,
+    "bookId": 7062,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7057,
+    "bookId": 7057,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7064,
+    "bookId": 7064,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7065,
+    "bookId": 7065,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 514,
+    "bookId": 514,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 513,
+    "bookId": 513,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 10,
+    "bookId": 10,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5313,
+    "bookId": 5313,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5314,
+    "bookId": 5314,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2606,
+    "bookId": 2606,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2605,
+    "bookId": 2605,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5312,
+    "bookId": 5312,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 515,
+    "bookId": 515,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5311,
+    "bookId": 5311,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5785,
+    "bookId": 5785,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 741,
+    "bookId": 741,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 742,
+    "bookId": 742,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6377,
+    "bookId": 6377,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 744,
+    "bookId": 744,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 743,
+    "bookId": 743,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 740,
+    "bookId": 740,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5786,
+    "bookId": 5786,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6376,
+    "bookId": 6376,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3608,
+    "bookId": 3608,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 611,
+    "bookId": 611,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 610,
+    "bookId": 610,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 613,
+    "bookId": 613,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 614,
+    "bookId": 614,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 608,
+    "bookId": 608,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 609,
+    "bookId": 609,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 612,
+    "bookId": 612,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 607,
+    "bookId": 607,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7119,
+    "bookId": 7119,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7118,
+    "bookId": 7118,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9470,
+    "bookId": 9470,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9469,
+    "bookId": 9469,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9472,
+    "bookId": 9472,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3591,
+    "bookId": 3591,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9468,
+    "bookId": 9468,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9464,
+    "bookId": 9464,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9467,
+    "bookId": 9467,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9465,
+    "bookId": 9465,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9479,
+    "bookId": 9479,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9466,
+    "bookId": 9466,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7031,
+    "bookId": 7031,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 70,
+    "bookId": 70,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7035,
+    "bookId": 7035,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7032,
+    "bookId": 7032,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7036,
+    "bookId": 7036,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 69,
+    "bookId": 69,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7033,
+    "bookId": 7033,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1388,
+    "bookId": 1388,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7037,
+    "bookId": 7037,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7034,
+    "bookId": 7034,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1200,
+    "bookId": 1200,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1201,
+    "bookId": 1201,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1199,
+    "bookId": 1199,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1197,
+    "bookId": 1197,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1196,
+    "bookId": 1196,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1204,
+    "bookId": 1204,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1202,
+    "bookId": 1202,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1203,
+    "bookId": 1203,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3712,
+    "bookId": 3712,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1198,
+    "bookId": 1198,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2775,
+    "bookId": 2775,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5620,
+    "bookId": 5620,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2777,
+    "bookId": 2777,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2773,
+    "bookId": 2773,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2781,
+    "bookId": 2781,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2778,
+    "bookId": 2778,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2780,
+    "bookId": 2780,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2779,
+    "bookId": 2779,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2776,
+    "bookId": 2776,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6847,
+    "bookId": 6847,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8135,
+    "bookId": 8135,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2292,
+    "bookId": 2292,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8136,
+    "bookId": 8136,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2287,
+    "bookId": 2287,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2293,
+    "bookId": 2293,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2291,
+    "bookId": 2291,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2290,
+    "bookId": 2290,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2289,
+    "bookId": 2289,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2288,
+    "bookId": 2288,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5661,
+    "bookId": 5661,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9733,
+    "bookId": 9733,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9735,
+    "bookId": 9735,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5486,
+    "bookId": 5486,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5487,
+    "bookId": 5487,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5488,
+    "bookId": 5488,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9736,
+    "bookId": 9736,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9739,
+    "bookId": 9739,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9734,
+    "bookId": 9734,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9738,
+    "bookId": 9738,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9737,
+    "bookId": 9737,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2757,
+    "bookId": 2757,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2758,
+    "bookId": 2758,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2759,
+    "bookId": 2759,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8328,
+    "bookId": 8328,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2760,
+    "bookId": 2760,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2756,
+    "bookId": 2756,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8327,
+    "bookId": 8327,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8326,
+    "bookId": 8326,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6365,
+    "bookId": 6365,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 410,
+    "bookId": 410,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8234,
+    "bookId": 8234,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8226,
+    "bookId": 8226,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8230,
+    "bookId": 8230,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8232,
+    "bookId": 8232,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8227,
+    "bookId": 8227,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8233,
+    "bookId": 8233,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8229,
+    "bookId": 8229,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8235,
+    "bookId": 8235,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8231,
+    "bookId": 8231,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8228,
+    "bookId": 8228,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1370,
+    "bookId": 1370,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1369,
+    "bookId": 1369,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1364,
+    "bookId": 1364,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1366,
+    "bookId": 1366,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8484,
+    "bookId": 8484,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1367,
+    "bookId": 1367,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1362,
+    "bookId": 1362,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1363,
+    "bookId": 1363,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1365,
+    "bookId": 1365,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1368,
+    "bookId": 1368,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6044,
+    "bookId": 6044,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6046,
+    "bookId": 6046,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6051,
+    "bookId": 6051,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6045,
+    "bookId": 6045,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6050,
+    "bookId": 6050,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6049,
+    "bookId": 6049,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6048,
+    "bookId": 6048,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6052,
+    "bookId": 6052,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6208,
+    "bookId": 6208,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9026,
+    "bookId": 9026,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7270,
+    "bookId": 7270,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7268,
+    "bookId": 7268,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7935,
+    "bookId": 7935,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7271,
+    "bookId": 7271,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7269,
+    "bookId": 7269,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6447,
+    "bookId": 6447,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6445,
+    "bookId": 6445,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6444,
+    "bookId": 6444,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7934,
+    "bookId": 7934,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6446,
+    "bookId": 6446,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 303,
+    "bookId": 303,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 305,
+    "bookId": 305,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 301,
+    "bookId": 301,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 306,
+    "bookId": 306,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 300,
+    "bookId": 300,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 297,
+    "bookId": 297,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 299,
+    "bookId": 299,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 298,
+    "bookId": 298,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 304,
+    "bookId": 304,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 302,
+    "bookId": 302,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3336,
+    "bookId": 3336,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3342,
+    "bookId": 3342,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3806,
+    "bookId": 3806,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3340,
+    "bookId": 3340,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3339,
+    "bookId": 3339,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1495,
+    "bookId": 1495,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3343,
+    "bookId": 3343,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3341,
+    "bookId": 3341,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3338,
+    "bookId": 3338,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7168,
+    "bookId": 7168,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6908,
+    "bookId": 6908,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7169,
+    "bookId": 7169,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7172,
+    "bookId": 7172,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9483,
+    "bookId": 9483,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7170,
+    "bookId": 7170,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9484,
+    "bookId": 9484,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9633,
+    "bookId": 9633,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9634,
+    "bookId": 9634,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6079,
+    "bookId": 6079,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7906,
+    "bookId": 7906,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8692,
+    "bookId": 8692,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8691,
+    "bookId": 8691,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8690,
+    "bookId": 8690,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8693,
+    "bookId": 8693,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 623,
+    "bookId": 623,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 624,
+    "bookId": 624,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8694,
+    "bookId": 8694,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 625,
+    "bookId": 625,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2704,
+    "bookId": 2704,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3474,
+    "bookId": 3474,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3473,
+    "bookId": 3473,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3471,
+    "bookId": 3471,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3472,
+    "bookId": 3472,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3468,
+    "bookId": 3468,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3470,
+    "bookId": 3470,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3469,
+    "bookId": 3469,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3475,
+    "bookId": 3475,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8914,
+    "bookId": 8914,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1390,
+    "bookId": 1390,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8743,
+    "bookId": 8743,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8740,
+    "bookId": 8740,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8744,
+    "bookId": 8744,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8741,
+    "bookId": 8741,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8746,
+    "bookId": 8746,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8747,
+    "bookId": 8747,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8742,
+    "bookId": 8742,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8748,
+    "bookId": 8748,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8745,
+    "bookId": 8745,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2012,
+    "bookId": 2012,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 401,
+    "bookId": 401,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3477,
+    "bookId": 3477,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 403,
+    "bookId": 403,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3478,
+    "bookId": 3478,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3476,
+    "bookId": 3476,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 402,
+    "bookId": 402,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 405,
+    "bookId": 405,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8497,
+    "bookId": 8497,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8496,
+    "bookId": 8496,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 404,
+    "bookId": 404,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4489,
+    "bookId": 4489,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1283,
+    "bookId": 1283,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4490,
+    "bookId": 4490,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1284,
+    "bookId": 1284,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4488,
+    "bookId": 4488,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1282,
+    "bookId": 1282,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1281,
+    "bookId": 1281,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2261,
+    "bookId": 2261,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1280,
+    "bookId": 1280,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2260,
+    "bookId": 2260,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4847,
+    "bookId": 4847,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4848,
+    "bookId": 4848,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4471927,
+    "bookId": 4471927,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4842,
+    "bookId": 4842,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4841,
+    "bookId": 4841,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4844,
+    "bookId": 4844,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4840,
+    "bookId": 4840,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4846,
+    "bookId": 4846,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4845,
+    "bookId": 4845,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1033975,
+    "bookId": 1033975,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1344,
+    "bookId": 1344,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8131,
+    "bookId": 8131,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8130,
+    "bookId": 8130,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8134,
+    "bookId": 8134,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8138,
+    "bookId": 8138,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8132,
+    "bookId": 8132,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8140,
+    "bookId": 8140,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8137,
+    "bookId": 8137,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8133,
+    "bookId": 8133,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8139,
+    "bookId": 8139,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5025,
+    "bookId": 5025,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5029,
+    "bookId": 5029,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5028,
+    "bookId": 5028,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5034,
+    "bookId": 5034,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5031,
+    "bookId": 5031,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5030,
+    "bookId": 5030,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5032,
+    "bookId": 5032,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5027,
+    "bookId": 5027,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5026,
+    "bookId": 5026,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5033,
+    "bookId": 5033,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1289,
+    "bookId": 1289,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1288,
+    "bookId": 1288,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1290,
+    "bookId": 1290,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1294,
+    "bookId": 1294,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1293,
+    "bookId": 1293,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1291,
+    "bookId": 1291,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1292,
+    "bookId": 1292,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1295,
+    "bookId": 1295,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1296,
+    "bookId": 1296,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1297,
+    "bookId": 1297,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6527,
+    "bookId": 6527,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6531,
+    "bookId": 6531,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6524,
+    "bookId": 6524,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6526,
+    "bookId": 6526,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6525,
+    "bookId": 6525,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6528,
+    "bookId": 6528,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6530,
+    "bookId": 6530,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6533,
+    "bookId": 6533,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4243,
+    "bookId": 4243,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4244,
+    "bookId": 4244,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9279,
+    "bookId": 9279,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9282,
+    "bookId": 9282,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9281,
+    "bookId": 9281,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2434,
+    "bookId": 2434,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2433,
+    "bookId": 2433,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9278,
+    "bookId": 9278,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9276,
+    "bookId": 9276,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9277,
+    "bookId": 9277,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9280,
+    "bookId": 9280,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8971,
+    "bookId": 8971,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2863,
+    "bookId": 2863,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2870,
+    "bookId": 2870,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2869,
+    "bookId": 2869,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5071,
+    "bookId": 5071,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2868,
+    "bookId": 2868,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2864,
+    "bookId": 2864,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2867,
+    "bookId": 2867,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2866,
+    "bookId": 2866,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2865,
+    "bookId": 2865,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2871,
+    "bookId": 2871,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4491,
+    "bookId": 4491,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1883,
+    "bookId": 1883,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2677,
+    "bookId": 2677,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1884,
+    "bookId": 1884,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1885,
+    "bookId": 1885,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1887,
+    "bookId": 1887,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1888,
+    "bookId": 1888,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1889,
+    "bookId": 1889,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2676,
+    "bookId": 2676,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1886,
+    "bookId": 1886,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 891,
+    "bookId": 891,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8506,
+    "bookId": 8506,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6330,
+    "bookId": 6330,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6332,
+    "bookId": 6332,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6334,
+    "bookId": 6334,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6335,
+    "bookId": 6335,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6333,
+    "bookId": 6333,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6331,
+    "bookId": 6331,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6329,
+    "bookId": 6329,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6283,
+    "bookId": 6283,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8711,
+    "bookId": 8711,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1590,
+    "bookId": 1590,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8712,
+    "bookId": 8712,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8714,
+    "bookId": 8714,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1589,
+    "bookId": 1589,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8708,
+    "bookId": 8708,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8713,
+    "bookId": 8713,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8710,
+    "bookId": 8710,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8709,
+    "bookId": 8709,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9871,
+    "bookId": 9871,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3362,
+    "bookId": 3362,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9872,
+    "bookId": 9872,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9876,
+    "bookId": 9876,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9874,
+    "bookId": 9874,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9877,
+    "bookId": 9877,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9875,
+    "bookId": 9875,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9873,
+    "bookId": 9873,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3363,
+    "bookId": 3363,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 160,
+    "bookId": 160,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2488,
+    "bookId": 2488,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2492,
+    "bookId": 2492,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2490,
+    "bookId": 2490,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2487,
+    "bookId": 2487,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2489,
+    "bookId": 2489,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2494,
+    "bookId": 2494,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2491,
+    "bookId": 2491,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2493,
+    "bookId": 2493,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2689,
+    "bookId": 2689,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2495,
+    "bookId": 2495,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 973,
+    "bookId": 973,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4926,
+    "bookId": 4926,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4928,
+    "bookId": 4928,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 974,
+    "bookId": 974,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4925,
+    "bookId": 4925,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4924,
+    "bookId": 4924,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 976,
+    "bookId": 976,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1779,
+    "bookId": 1779,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 975,
+    "bookId": 975,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 977,
+    "bookId": 977,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4546,
+    "bookId": 4546,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4545,
+    "bookId": 4545,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 164,
+    "bookId": 164,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 166,
+    "bookId": 166,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 167,
+    "bookId": 167,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 165,
+    "bookId": 165,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 159,
+    "bookId": 159,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 161,
+    "bookId": 161,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 163,
+    "bookId": 163,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 162,
+    "bookId": 162,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8663,
+    "bookId": 8663,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8662,
+    "bookId": 8662,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8668,
+    "bookId": 8668,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8664,
+    "bookId": 8664,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8665,
+    "bookId": 8665,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8671,
+    "bookId": 8671,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8670,
+    "bookId": 8670,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8669,
+    "bookId": 8669,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8667,
+    "bookId": 8667,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 8666,
+    "bookId": 8666,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3259,
+    "bookId": 3259,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5432,
+    "bookId": 5432,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6482251,
+    "bookId": 6482251,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5429,
+    "bookId": 5429,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5430,
+    "bookId": 5430,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5428,
+    "bookId": 5428,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3260,
+    "bookId": 3260,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5431,
+    "bookId": 5431,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3258,
+    "bookId": 3258,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5427,
+    "bookId": 5427,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 79556,
+    "bookId": 79556,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9993,
+    "bookId": 9993,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9996,
+    "bookId": 9996,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9079,
+    "bookId": 9079,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9994,
+    "bookId": 9994,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9075,
+    "bookId": 9075,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9077,
+    "bookId": 9077,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9078,
+    "bookId": 9078,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9076,
+    "bookId": 9076,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9080,
+    "bookId": 9080,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1651,
+    "bookId": 1651,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1653,
+    "bookId": 1653,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1655,
+    "bookId": 1655,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1650,
+    "bookId": 1650,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6350,
+    "bookId": 6350,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6351,
+    "bookId": 6351,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5164,
+    "bookId": 5164,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1654,
+    "bookId": 1654,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1656,
+    "bookId": 1656,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1652,
+    "bookId": 1652,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5648,
+    "bookId": 5648,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3995,
+    "bookId": 3995,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5651,
+    "bookId": 5651,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5653,
+    "bookId": 5653,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5647,
+    "bookId": 5647,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5652,
+    "bookId": 5652,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5654,
+    "bookId": 5654,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5650,
+    "bookId": 5650,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5649,
+    "bookId": 5649,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2519,
+    "bookId": 2519,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6993,
+    "bookId": 6993,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6995,
+    "bookId": 6995,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6998,
+    "bookId": 6998,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6996,
+    "bookId": 6996,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6997,
+    "bookId": 6997,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7001,
+    "bookId": 7001,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6994,
+    "bookId": 6994,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7000,
+    "bookId": 7000,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 312,
+    "bookId": 312,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6999,
+    "bookId": 6999,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2984,
+    "bookId": 2984,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2992,
+    "bookId": 2992,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2985,
+    "bookId": 2985,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2986,
+    "bookId": 2986,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2989,
+    "bookId": 2989,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2988,
+    "bookId": 2988,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2987,
+    "bookId": 2987,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2991,
+    "bookId": 2991,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2990,
+    "bookId": 2990,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2193,
+    "bookId": 2193,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1122,
+    "bookId": 1122,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3448,
+    "bookId": 3448,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1119,
+    "bookId": 1119,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1118,
+    "bookId": 1118,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1121,
+    "bookId": 1121,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 3447,
+    "bookId": 3447,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1120,
+    "bookId": 1120,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1117,
+    "bookId": 1117,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1123,
+    "bookId": 1123,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5331,
+    "bookId": 5331,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5333,
+    "bookId": 5333,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5334,
+    "bookId": 5334,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5332,
+    "bookId": 5332,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6763,
+    "bookId": 6763,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6764,
+    "bookId": 6764,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6761,
+    "bookId": 6761,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 5335,
+    "bookId": 5335,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6760,
+    "bookId": 6760,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 6762,
+    "bookId": 6762,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4213,
+    "bookId": 4213,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4212,
+    "bookId": 4212,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4209,
+    "bookId": 4209,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4210,
+    "bookId": 4210,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9639,
+    "bookId": 9639,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9642,
+    "bookId": 9642,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 4211,
+    "bookId": 4211,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9641,
+    "bookId": 9641,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9640,
+    "bookId": 9640,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 9645,
+    "bookId": 9645,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7487,
+    "bookId": 7487,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7483,
+    "bookId": 7483,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7490,
+    "bookId": 7490,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7486,
+    "bookId": 7486,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2635,
+    "bookId": 2635,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7489,
+    "bookId": 7489,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7485,
+    "bookId": 7485,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7488,
+    "bookId": 7488,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 2636,
+    "bookId": 2636,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1397,
+    "bookId": 1397,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 7017,
+    "bookId": 7017,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1398,
+    "bookId": 1398,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  },
+  {
+    "chapterId": 1401,
+    "bookId": 1401,
+    "thumbnailUrl": "https:\/didactapp.com\/api\/images\/",
+    "description": "here's what you'll learn:",
+    "chapterNum": 0
+  }
+]
