@@ -28,4 +28,4 @@ csv['description'] = pd.Series('here\'s what you\'ll learn:', index=csv.index)
 csv['version'] = pd.Series(2, index=csv.index)
 
 # convert pandas dataframe to json and write to file
-json = csv.to_json(path_or_buf='covers.json', orient='records')
+json = csv.to_json(path_or_buf='book_list.json', orient='records')
