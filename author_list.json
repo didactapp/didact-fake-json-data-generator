@@ -1,0 +1,326 @@
+[
+  {
+    "authorId": 9,
+    "firstName": "W. Frederick Zimmerman",
+    "lastName": "W. Frederick Zimmerman",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 8,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 1,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 2,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 4,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 8053,
+    "firstName": "Roger Hargreaves",
+    "lastName": "Roger Hargreaves",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 6,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 9643,
+    "firstName": "George Orwell",
+    "lastName": "George Orwell",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 9644,
+    "firstName": "George Orwell",
+    "lastName": "George Orwell",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7209,
+    "firstName": "Frances Mayes",
+    "lastName": "Frances Mayes",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3732,
+    "firstName": "Herman Melville",
+    "lastName": "Herman Melville",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3404,
+    "firstName": "Lawrence Otis Graham",
+    "lastName": "Lawrence Otis Graham",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3731,
+    "firstName": "Herman Melville",
+    "lastName": "Herman Melville",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3729,
+    "firstName": "Daniel Horowitz",
+    "lastName": "Daniel Horowitz",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7214,
+    "firstName": "Donald Miller",
+    "lastName": "Donald Miller",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3733,
+    "firstName": "Herman Melville",
+    "lastName": "Herman Melville",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3730,
+    "firstName": "Vance Packard",
+    "lastName": "Vance Packard",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7063,
+    "firstName": "Avalon Travel",
+    "lastName": "Avalon Travel",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7056,
+    "firstName": "Alexander McCall Smith",
+    "lastName": "Alexander McCall Smith",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7059,
+    "firstName": "Alexander McCall Smith",
+    "lastName": "Alexander McCall Smith",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5669,
+    "firstName": "Richard Ryley",
+    "lastName": "Richard Ryley",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7061,
+    "firstName": "Alexander McCall Smith",
+    "lastName": "Alexander McCall Smith",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7058,
+    "firstName": "Alexander McCall Smith",
+    "lastName": "Alexander McCall Smith",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7062,
+    "firstName": "Adam Gopnik",
+    "lastName": "Adam Gopnik",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7057,
+    "firstName": "Alexander McCall Smith",
+    "lastName": "Alexander McCall Smith",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7064,
+    "firstName": "\u00c9mile Zola",
+    "lastName": "\u00c9mile Zola",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 7065,
+    "firstName": "Iain Cameron Williams",
+    "lastName": "Iain Cameron Williams",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 514,
+    "firstName": "Ray Holan",
+    "lastName": "Ray Holan",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 513,
+    "firstName": "Frank Moher",
+    "lastName": "Frank Moher",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 10,
+    "firstName": "J.K. Rowling",
+    "lastName": "J.K. Rowling",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5313,
+    "firstName": "Carl Barks",
+    "lastName": "Carl Barks",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5314,
+    "firstName": "Marvin Kaye",
+    "lastName": "Marvin Kaye",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 2606,
+    "firstName": "Mark Bittman",
+    "lastName": "Mark Bittman",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 2605,
+    "firstName": "Mark Bittman",
+    "lastName": "Mark Bittman",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5312,
+    "firstName": "Carl Barks",
+    "lastName": "Carl Barks",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 515,
+    "firstName": "Dave Thomas",
+    "lastName": "Dave Thomas",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5311,
+    "firstName": "Ted Klontz",
+    "lastName": "Ted Klontz",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5785,
+    "firstName": "Linda Motzkin",
+    "lastName": "Linda Motzkin",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 741,
+    "firstName": "Len Vogler",
+    "lastName": "Len Vogler",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 742,
+    "firstName": "Towey Dan",
+    "lastName": "Towey Dan",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 6377,
+    "firstName": "Peter C. Spencer",
+    "lastName": "Peter C. Spencer",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 744,
+    "firstName": "Askold Buk",
+    "lastName": "Askold Buk",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 743,
+    "firstName": "Songbook",
+    "lastName": "Songbook",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 740,
+    "firstName": "The Beatles",
+    "lastName": "The Beatles",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 5786,
+    "firstName": "Amir D. Aczel",
+    "lastName": "Amir D. Aczel",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 6376,
+    "firstName": "Scott Hahn",
+    "lastName": "Scott Hahn",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 3608,
+    "firstName": "Eric Tyson",
+    "lastName": "Eric Tyson",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 611,
+    "firstName": "Rich Mintzer",
+    "lastName": "Rich Mintzer",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 610,
+    "firstName": "Brady Games",
+    "lastName": "Brady Games",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 613,
+    "firstName": "Jody Palmour",
+    "lastName": "Jody Palmour",
+    "about": "the author is a space ninja"
+  },
+  {
+    "authorId": 614,
+    "firstName": "Mark David Baer",
+    "lastName": "Mark David Baer",
+    "about": "the author is a space ninja"
+  }
+]
